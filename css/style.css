@@ -18,6 +18,10 @@
 }
 
 .segunda-secao{
+	background-color: #F8F8F8;
+}
+
+.terceira-secao{
 	background-image: url("../img/fundo-cachorros.png");
 	background-size: 192px; 
 	background-repeat: repeat;
